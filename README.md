@@ -2,10 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#OUTPUT
+
+![Screenshot 2023-05-26 130229](https://github.com/AryanGarate/newsApp/assets/88654066/a75d713f-7aa3-494e-badd-ed24cdd4038f)
+
+![Screenshot 2023-05-26 130309](https://github.com/AryanGarate/newsApp/assets/88654066/1b4994af-1e5a-4c2d-9659-324f74f3fd0d)
 ## Available Scripts
-
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
